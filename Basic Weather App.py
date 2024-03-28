@@ -29,3 +29,4 @@ if __name__ == "__main__":
         print(f"Wind Speed: {weather_data['wind']['speed']} m/s")
     else:
         print("Failed to fetch weather information.")
+#by JAGADEESH

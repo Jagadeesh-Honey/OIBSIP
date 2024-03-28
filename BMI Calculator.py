@@ -5,3 +5,4 @@ def bmi(we,he):
 we=float(input("Enter your Weight in Kilograms = "))
 he=float(input("Enter your Height in Meters = "))
 bmi(we,he)
+#by JAGADEESH
